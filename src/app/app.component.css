@@ -1,0 +1,28 @@
+.header-left{
+    float: left;
+    color:black
+}
+.header-right{
+    float: right;
+    color:black
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.card-body{
+    color: black;
+    font-style: italic;
+}
+
+.card-header{
+    color: black;
+    font-style: bold;
+    font-style: italic;
+    font-size: medium;
+    
+}
+
+
+
